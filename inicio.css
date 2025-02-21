@@ -1,0 +1,19 @@
+
+.inicio-contenido {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    margin: 0;
+    padding: 20px;
+    background-color:aliceblue ;
+}
+.inicio-contenido strong{
+    color:  blue;
+}
+
+.inicio-img img {
+    width: 65%;
+    height: auto;
+    vertical-align: middle;
+
+}
